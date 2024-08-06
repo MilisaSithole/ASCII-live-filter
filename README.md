@@ -2,6 +2,22 @@
 
 This Processing sketch transforms live video input into dynamic ASCII art with edge detection capabilities.
 
+## Examples
+
+Here are some example outputs from the sketch:
+
+### Original Image
+
+![Original Image](Images/original.png)
+
+### Without Edge Detection
+![ASCII Art without edges](Images/example.png)
+
+### With Edge Detection
+![ASCII Art with edges](Images/exampleEdges.png)
+
+These images demonstrate the difference between the standard ASCII art output and the version with edge detection enabled.
+
 ## Features
 
 - Real-time video to ASCII conversion
